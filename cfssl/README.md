@@ -59,7 +59,7 @@ cat dev-hanliang-link.pem dev-intermediate-ca.pem root-ca.pem > dev-hanliang-lin
 1. 李国强的博客：[企业CA系列一 搭建企业根CA和中间CA](
 https://www.toutiao.com/article/6844782478880670211/?app=news_article&timestamp=1655970987&use_new_style=1&req_id=202206231556260101351620280F1487D1&group_id=6844782478880670211&share_token=16AE4B8A-6FB2-487B-8C21-94D7866CAF32&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1&source=m_redirect&wid=1655971046761)
 
-2. [How to use cfssl to create self signed certificates] (https://rob-blackbourn.medium.com/how-to-use-cfssl-to-create-self-signed-certificates-d55f76ba5781)
+2. [How to use cfssl to create self signed certificates](https://rob-blackbourn.medium.com/how-to-use-cfssl-to-create-self-signed-certificates-d55f76ba5781)
 
 3. [CFSSL使用方法 以及 vSphere 证书替换](https://www.ethanzhang.xyz/cfssl%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/)
 
