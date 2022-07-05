@@ -1,0 +1,20 @@
+{
+    "CN": "Demo Root CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Shanghai",
+            "L": "Shanghai",
+            "O": "hanliang.link",
+            "OU": "infrastructure"
+        }
+    ],
+    "ca": {
+        "expiry": "175200h"
+    }
+}
+

@@ -1,0 +1,19 @@
+{
+    "CN": "dev.hanliang.link",
+    "hosts": [
+        "*.dev.hanliang.link"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Shanghai",
+            "L": "Shanghai",
+	        "O": "hanliang.link",
+	        "OU": "infrastructure"
+        }
+    ]
+}

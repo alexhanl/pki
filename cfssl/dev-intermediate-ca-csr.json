@@ -1,0 +1,17 @@
+{
+    "CN": "Demo Dev Intermediate CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Shanghai",
+            "L": "Shanghai",
+            "O": "dev.hanliang.link",
+            "OU": "infrastructure"
+        }
+    ]
+}
+
